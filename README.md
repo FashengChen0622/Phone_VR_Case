@@ -1,0 +1,2 @@
+# Phone_VR_Case
+I create this repository to share my Phone VR glasses 3D printing files. It contains STL files that are used for 3D printing and original SLDPRT files which are created by solidworks. You can modify any files and use in both commercial and non-commercial area as you want. It's totally free. But if you want to use my design or modify it, please quote my name &lt;Fasheng Chen> and this repository. Thank you!
